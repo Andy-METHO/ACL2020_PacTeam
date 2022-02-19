@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ACL2020_PacTeam:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ACL2020_PacTeam_jar</output-path>
+    <root id="archive" name="ACL2020_PacTeam.jar">
+      <element id="module-output" name="ACL2020_PacTeam" />
+    </root>
+  </artifact>
+</component>
